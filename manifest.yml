@@ -1,0 +1,8 @@
+---
+name: "Cache Reset"
+category: "Jobs"
+subcategory: "Utilities"
+description: |
+  Clear a Batch Connect app's saved form-value cache for your account.
+  Reached both directly from the dashboard and via the "cache reset
+  utility" link every generated nf-core pipeline app's form shows.
